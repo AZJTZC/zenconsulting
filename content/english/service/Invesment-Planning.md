@@ -1,5 +1,5 @@
 ---
-title: "Invesment Planning"
+title: "Organisational Change"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -13,30 +13,19 @@ icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+Organizations that follow a change management strategy are 7x more likely to meet their digital transformation goals (Prosci, 2023). Managing change with people requires a rightsized strategy that is based on your organisation’s culture and appetite for change. It also needs to be well-executed that takes stakeholders on a journey from awareness to sustainment. This is easier said than done and very few successfully execute well, resulting in unrealized value from transformational initiatives. We bring a balanced approach of applying world class methodology with your unique organization behaviour.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Benifits of Services
 
-### Benifits of service
+The key benefits of choosing us to facilitate your organization change are:
+-	Proven methodology that combines world class techniques with lessons learned in your organisation
+-	Position your change well from the start using a vision alignment exercise with stakeholders
+-	Apply a balance of qualitative and quantitative measures to track the change journey
+-	Understand technology solutions and impacts for targeted and specific messaging to stakeholders
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Areas of Expertise
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
-
-### Business Strategy
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
-
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+We bring world class proven expertise of organizational change with:
+-	Knowledge of a variety of digital solutions and the resulting impact to organisations
+-	Experience of managing complex enterprise-wide and geographically dispersed transformations
+-	Best practices in organizational change and design from learnings with templates to accelerate execution

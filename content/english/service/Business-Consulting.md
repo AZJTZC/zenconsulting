@@ -1,5 +1,5 @@
 ---
-title: "Business Consulting"
+title: "Business Analysis"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -13,30 +13,24 @@ icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+A key success factor for digital transformations is having well-defined requirements based on a clear vision. Too often digital transformations are technology-led, without a clear understanding of the problem you’re trying to solve. Traditional ways of defining requirements can encourage blue sky thinking, missing what truly matters from the challenges facing the organization in the current-state. Defining a good set of requirements needs great facilitation skills based on knowledge of the business, best practices and solutions.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Benifits of Services
 
-### Benifits of service
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
-
-### Business Strategy
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
+The key benefits of choosing us for requirements definition in that we:
+-	Provide frameworks for structuring functional and non-functional requirements
+-	Approach requirements from an end-to-end process perspective, not leaving any stones unturned
+-	Apply measures for quantifying the benefit of requirements
+-	Drive requirements to address root causes, not symptoms 
+-	Ensure traceability of requirements to success criteria from use cases
+-	Implement a highly collaborative approach with stakeholders for buy-in
+-	Align requirements to strategies for management support
 
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
+### Areas of Expertise
 
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+We bring proven expertise for all your requirements definition needs:
+-	Knowledge of industry and functional best practices to benchmark requirements
+-	Experience with a breadth of technology solutions to align requirements to solution use cases
+-	Comprehensive templates to accelerate requirements definition documentation
+-	Strong workshop-style facilitation techniques to tease out well-defined requirements from stakeholders

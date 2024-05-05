@@ -1,5 +1,5 @@
 ---
-title: "Invesment Planning"
+title: "Process Excellence"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -13,30 +13,21 @@ icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+70% of organisations fail in complex and large-scale change programs due to a lack of process alignment (McKinsey & Company). Now more than ever, organisations are focusing on raising productivity and efficiency. If this is you, we need to talk. We bring the best Black Belt Lean Six Sigma practitioners, combined with digital tools, to accelerate the optimization of processes.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Benifits of Services
 
-### Benifits of service
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
-
-### Business Strategy
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
+The key benefits of choosing us for to facilitate your process improvement are:
+-	Accelerated approach that utilizes a rightsizing of Lean Six Sigma methodology with digital tools or data analysis
+-	Adoption of process taxonomies to global standards using best practice and industry templates
+-	Well-defined requirements based on areas of inefficiencies in processes
+-	Highly collaborative workshops for working through value stream analysis with stakeholders
+-	Alignment of improvements to the organization culture and appetite for change 
 
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
+### Areas of Expertise
 
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+We bring world class proven expertise for your process improvement needs:
+-	Knowledge of industry best practices to benchmark your current-state processes
+-	Experience with a breadth of technology solutions available to automate processes
+-	Critical thinking for problem-solving challenges with stakeholders

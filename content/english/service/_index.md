@@ -1,6 +1,5 @@
 ---
-title: "Service We Provide"
-subtitle: "Best Service"
+title: "Our Services"
 # meta description
 description: "this is meta description"
 # page title background image

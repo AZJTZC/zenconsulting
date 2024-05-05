@@ -1,5 +1,5 @@
 ---
-title: "Business Consulting"
+title: "Project Governance"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -12,30 +12,26 @@ image: "images/service/service-6.jpg"
 icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+Your investment in an initiative is an important decision. Unfortunately, ‘67% of key initiatives are not aligned with business unit and corporate strategies’ (Gartner, 2023). Beyond that of the financial risk, consequences on the reputation of individuals and the entire organization may be compromised. Often the reputational risk can be substantial to someone’s career as well as an organisation’s market position. With proper governance, the risk can be reduced significantly.
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+### Benifits of Services
 
-### Benifits of service
+The key benefits of choosing us for project governance include:
 
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+1. Measured definition of outcome(s)
+2. Concise business case criteria for success
+3. Established governance structure
+4. Well-defined roles and responsibilities
+5. Agreed escalation process
+6. Aligned stakeholder to objectives
 
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-4. Clients Satisfaction
-5. Quality Services
-6. Clients Satisfaction
+### Areas of Expertise
 
-### Business Strategy
+We bring proven expertise for all your project governance needs:
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.
-
-
-1. Quality Services
-2. Clients Satisfaction
-3. Quality Services
-
-### Analyze your business
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+-	Alignment of strategies, roadmaps, and programmes and projects
+-	Facilitation of business case development including financial analysis of ROI and payback period
+-	Establishment of project controls for managing scope, schedule, cost and quality
+-	Health check assessment of in-flight projects to surface risks and corrective actions
+-	Alignment of stakeholders to project vision and objectives
+-	Formation of business process owner networks

@@ -86,8 +86,9 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
+  title : "Established in 2009, our “Why” is a passion to help clients realise value in initiatives and mitigate risks that creates worry, or to be ZEN! "
+  content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of project execution. He says:
+  “Executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail. Zen Consulting provides the trusted advisor to ensure transformations are set-up for success.”"
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
   image_webp : "images/about/about-us.webp"
@@ -102,23 +103,23 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "project done"
-      count : "50"
+    - name : "projects done"
+      count : "30"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
+      
+    # fanfacts item loop
+    - name : "Years Established"
+      count : "15"
+      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
     - name : "Years Experience"
       count : "25"
-      icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Awards Win"
-      count : "250"
       icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
+    - name : "Customers Satisfied"
+      count : "50"
       icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
 
 
@@ -129,17 +130,17 @@ feature:
   title : "Why They Choose Bexar"
   image_webp : "images/feature/feature.webp"
   image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  content : "What you see is what you get. Unlike other consulting outfits where the people selling are different from those delivering, you can rest assure the face you start with will be the same as the one delivering."
   feature_item:
     # feature item loop
-    - name : "Creative Design"
+    - name : "Seasoned Consultants"
       icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "Our consultants are experts and leaders in their field. They love what they do and they’re known for it."
       
     # feature item loop
-    - name : "Pixel Perfect Coding"
+    - name : "Trusted to Do the Right Thing"
       icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "Even if this means challenging your ideas, we engage to add immediate and ongoing value."
 
 ################################# service ############################################
 service:
