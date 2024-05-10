@@ -8,9 +8,9 @@ weight = 1
 [en.params]
 home = "Home"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+footer_content = "Established in 2009, our “Why” is a passion to help clients realise value in projects and mitigate risks that creates worry, or to be ZEN! Zen Consulting provides the trusted advisor to ensure transformations are set-up for success."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2024 Zen Consulting Limited. All rights reserved."
 
 
 ################################### French language #####################################

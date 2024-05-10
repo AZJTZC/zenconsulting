@@ -1,5 +1,5 @@
 ---
-title: "Business Analysis"
+title: "2. Business Analysis"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -15,7 +15,7 @@ icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
 
 A key success factor for digital transformations is having well-defined requirements based on a clear vision. Too often digital transformations are technology-led, without a clear understanding of the problem you’re trying to solve. Traditional ways of defining requirements can encourage blue sky thinking, missing what truly matters from the challenges facing the organization in the current-state. Defining a good set of requirements needs great facilitation skills based on knowledge of the business, best practices and solutions.
 
-### Benifits of Services
+### Value of Services
 
 The key benefits of choosing us for requirements definition in that we:
 -	Provide frameworks for structuring functional and non-functional requirements

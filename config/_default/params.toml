@@ -7,11 +7,11 @@ favicon = "images/favicon.png"
 top_header = true
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Zen Consulting"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@bexer.com"
+address = "Auckland, New Zealand"
+mobile = "+6421880920"
+email = "info@zenconsulting.co.nz"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -53,17 +53,5 @@ map_marker_name = "Bexer"
 
 ########################### social icon ############################
 [[social]]
-icon = "fab fa-facebook"
-link = "https://facebook.com/themefisher"
-
-[[social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/themefisher"
-
-[[social]]
-icon = "fab fa-github"
-link = "https://github.com/themefisher"
-
-[[social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com/themefisher"
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/company/596895"
