@@ -1,27 +1,19 @@
 ---
-title: "Kobert Wonkomoli"
+title: "Rowan Teh"
+date: 2024-05-09T10:47:55+06:00
 # meta description
-description: "this is meta description"
+description: "Rowan Teh"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # portrait
-image_webp: "images/team/team-6.webp"
-image: "images/team/team-6.jpg"
+image_webp: "images/team/rowanteh.jpg"
+image: "images/team/rowanteh.jpg"
 # designation
-designation: "CEO"
-social:
-  - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-twitter" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
+designation: "Designer"
+social: 
   - icon : "fab fa-linkedin" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
-    
-  - icon : "fab fa-pinterest" # font-awesome 5 : https://fontawesome.com/icons/
-    link : "#"
+    link : "https://www.linkedin.com/in/rowanteh/"
 
 # skill
 skill_title: Skills

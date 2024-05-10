@@ -1,5 +1,5 @@
 ---
-title: "Project Governance"
+title: "1. Project Governance"
 # meta description
 description: "this is meta description for service page."
 # page title background image
@@ -14,7 +14,7 @@ icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
 
 Your investment in an initiative is an important decision. Unfortunately, ‘67% of key initiatives are not aligned with business unit and corporate strategies’ (Gartner, 2023). Beyond that of the financial risk, consequences on the reputation of individuals and the entire organization may be compromised. Often the reputational risk can be substantial to someone’s career as well as an organisation’s market position. With proper governance, the risk can be reduced significantly.
 
-### Benifits of Services
+### Value of Services
 
 The key benefits of choosing us for project governance include:
 

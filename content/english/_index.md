@@ -5,55 +5,55 @@ hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - subtitle : "We help you to"
+      title : "Implement project governance"
+      content : "De-risk and protect your investment in delivering projects"
       bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - subtitle : "We help you to"
+      title : "Apply Business Analysis"
+      content : "Elicit proper requirements to deliver measurable benefits"
       bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slider/banner-2.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - subtitle : "We help you to"
+      title : "Adopt Process Excellence"
+      content : "Radically improve efficiency and productivity"
       bg_image_webp : "images/slider/banner-3.webp"
       bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - subtitle : "We help you to"
+      title : "Manage Organisational Change"
+      content : "Implement a rightsized change strategy"
       bg_image_webp : "images/slider/banner-4.webp"
       bg_image : "images/slider/banner-4.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -86,12 +86,12 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "Established in 2009, our “Why” is a passion to help clients realise value in initiatives and mitigate risks that creates worry, or to be ZEN! "
+  title : "Established in 2009, our “Why” is a passion to help clients be calm and worry-free (or ZEN!) in delivering projects "
   content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of project execution. He says:
   “Executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail. Zen Consulting provides the trusted advisor to ensure transformations are set-up for success.”"
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
+  image_webp : "images/about/about-us.png"
   image : "images/about/about-us.png"
   button:
     enable : true;
@@ -103,7 +103,7 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "projects done"
+    - name : "Projects Completed"
       count : "30"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
@@ -127,8 +127,8 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
+  title : "Why They Choose Zen Consulting"
+  image_webp : "images/feature/feature.jpg"
   image : "images/feature/feature.jpg"
   content : "What you see is what you get. Unlike other consulting outfits where the people selling are different from those delivering, you can rest assure the face you start with will be the same as the one delivering."
   feature_item:
@@ -151,14 +151,14 @@ service:
 
 ################################# team ##############################################
 team:
-  enable : true
+  enable : false
   section: "team"
   show_item : 3
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
 project:
-  enable : true
+  enable : false
   section: "project"
   show_item : 4
   button:
@@ -169,7 +169,7 @@ project:
 
 ################################# testimonial #########################################
 testimonial:
-  enable : true
+  enable : false
   subtitle : "Testimonials"
   title : "What Clients Are Say?"
   testimonial_item:
@@ -195,7 +195,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Bexar give the smart solution for your business"
+  title : "Zen Consulting For Stress-Free Project Delivery"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
@@ -205,7 +205,7 @@ cta:
 
 ################################# blog ################################################
 blog:
-  enable : true
+  enable : false
   section : "blog"
   show_item : 3
   # blog post comes from "content/*/blog" folder
