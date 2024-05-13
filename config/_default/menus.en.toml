@@ -17,19 +17,14 @@ url = "project/"
 weight = 4
 
 [[main]]
-name = "Team"
-url = "team/"
-weight = 5
-
-[[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 5
 
 [[main]]
 weight = 7
 name = "Pages"
-hasChildren = true
+hasChildren = false
 
   [[main]]
   parent = "Pages"
