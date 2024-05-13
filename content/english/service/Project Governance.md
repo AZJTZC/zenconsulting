@@ -9,12 +9,12 @@ bg_image: "images/backgrounds/page-title.jpg"
 image_webp: "images/service/service-6.webp"
 image: "images/service/service-6.jpg"
 # service icon
-icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
+icon: "fas fas fa-landmark" # font-awesome 5 : https://fontawesome.com/icons/
 ---
 
-Your investment in an initiative is an important decision. Unfortunately, ‘67% of key initiatives are not aligned with business unit and corporate strategies’ (Gartner, 2023). Beyond that of the financial risk, consequences on the reputation of individuals and the entire organization may be compromised. Often the reputational risk can be substantial to someone’s career as well as an organisation’s market position. With proper governance, the risk can be reduced significantly.
+Your investment in a project is an important decision. Unfortunately, ‘67% of key initiatives are not aligned with business unit and corporate strategies’ (Gartner, 2023). Beyond that of the financial risk, consequences on the reputation of individuals and the entire organization may be compromised. Often the reputational risk can be substantial to someone’s career as well as an organisation’s market position. With proper governance, the risk can be reduced significantly.
 
-### Value of Services
+### Value-Added Services
 
 The key benefits of choosing us for project governance include:
 

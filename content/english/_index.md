@@ -6,7 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "We help you to"
-      title : "Implement project governance"
+      title : "Govern projects"
       content : "De-risk and protect your investment in delivering projects"
       bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
@@ -63,22 +63,22 @@ banner_feature:
   feature_item:
     # banner feature item loop
     - name : "Project Governance"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-landmark" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Set-up or get back on track projects."
       
     # banner feature item loop
     - name : "Business Analysis"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Define requirements with traceability to value."
       
     # banner feature item loop
     - name : "Process Excellence"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Optimise processes to maximise value."
       
     # banner feature item loop
     - name : "Organisational Change"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-hands-helping" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Manage people side of change."
 
 
@@ -127,19 +127,19 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Zen Consulting"
+  title : "Why Clients Choose Zen Consulting"
   image_webp : "images/feature/feature.jpg"
   image : "images/feature/feature.jpg"
   content : "What you see is what you get. Unlike other consulting outfits where the people selling are different from those delivering, you can rest assure the face you start with will be the same as the one delivering."
   feature_item:
     # feature item loop
     - name : "Seasoned Consultants"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-chalkboard-teacher" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Our consultants are experts and leaders in their field. They love what they do and they’re known for it."
       
     # feature item loop
     - name : "Trusted to Do the Right Thing"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-hand-holding-heart" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Even if this means challenging your ideas, we engage to add immediate and ongoing value."
 
 ################################# service ############################################
@@ -195,7 +195,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Zen Consulting For Stress-Free Project Delivery"
+  title : "Zen Consulting For Worry-Free Project Delivery"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
