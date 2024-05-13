@@ -200,7 +200,7 @@ cta:
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
     enable : true
-    label : "get a quote"
+    label : "Contact Us"
     link : "contact/"
 
 ################################# blog ################################################
