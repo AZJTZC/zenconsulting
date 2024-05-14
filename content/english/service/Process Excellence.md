@@ -1,13 +1,13 @@
 ---
-title: "3. Process Excellence"
+title: "2. Process Excellence"
 # meta description
 description: "this is meta description for service page."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # service image
-image_webp: "images/service/service-5.webp"
-image: "images/service/service-5.jpg"
+image_webp: "images/service/service-2.jpg"
+image: "images/service/service-2.jpg"
 # service icon
 icon: "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
 

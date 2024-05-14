@@ -49,14 +49,14 @@ about:
 service:
   enable : true
   section: "service"
-  show_item: 3
+  show_item: 4
   # service item comes from `content/*/service` folder
 
 ################################### team ###########################
 team: 
   enable : true
   section: "team"
-  show_item: 3
+  show_item: 1
   # team member comes from `content/*/team` folder
 ---
 

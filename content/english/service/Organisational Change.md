@@ -1,12 +1,12 @@
 ---
-title: "4. Organisational Change"
+title: "3. Organisational Change"
 # meta description
 description: "this is meta description for service page."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # service image
-image_webp: "images/service/service-3.webp"
+image_webp: "images/service/service-3.jpg"
 image: "images/service/service-3.jpg"
 # service icon
 icon: "fas fa-hands-helping" # font-awesome 5 : https://fontawesome.com/icons/

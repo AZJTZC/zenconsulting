@@ -8,7 +8,7 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Govern projects"
       content : "De-risk and protect your investment in delivering projects"
-      bg_image_webp : "images/slider/banner-1.webp"
+      bg_image_webp : "images/slider/banner-1.jpg"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -17,25 +17,12 @@ hero_slider:
         link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
-    # slider item
-    - subtitle : "We help you to"
-      title : "Apply Business Analysis"
-      content : "Elicit proper requirements to deliver measurable benefits"
-      bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-2.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "service/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
+       # slider item
     - subtitle : "We help you to"
       title : "Adopt Process Excellence"
       content : "Radically improve efficiency and productivity"
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
+      bg_image_webp : "images/slider/banner-2.jpg"
+      bg_image : "images/slider/banner-2.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -47,15 +34,28 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Manage Organisational Change"
       content : "Implement a rightsized change strategy"
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
+      bg_image_webp : "images/slider/banner-3.jpg"
+      bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
         link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
+ 
+    # slider item
+    - subtitle : "We help you to"
+      title : "Apply Business Analysis"
+      content : "Elicit proper requirements to deliver measurable benefits"
+      bg_image_webp : "images/slider/banner-4.jpg"
+      bg_image : "images/slider/banner-4.jpg"
+      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "service/"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        
 ################################## banner feature ############################
 banner_feature:
   enable : true
@@ -67,11 +67,6 @@ banner_feature:
       content : "Set-up or get back on track projects."
       
     # banner feature item loop
-    - name : "Business Analysis"
-      icon : "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Define requirements with traceability to value."
-      
-    # banner feature item loop
     - name : "Process Excellence"
       icon : "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Optimise processes to maximise value."
@@ -81,13 +76,17 @@ banner_feature:
       icon : "fas fa-hands-helping" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Manage people side of change."
 
-
+     # banner feature item loop
+    - name : "Business Analysis"
+      icon : "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Define requirements with traceability to value."
+      
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
-  title : "Established in 2009, our “Why” is a passion to help clients be calm and worry-free (or ZEN!) in delivering projects "
-  content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of project execution. He says:
+  title : "Established in 2009, our “Why” is a passion to help clients transform calmly and worry-free (with ZEN!)"
+  content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of projects. He says:
   “Executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail. Zen Consulting provides the trusted advisor to ensure transformations are set-up for success.”"
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -95,8 +94,8 @@ about:
   image : "images/about/about-us.png"
   button:
     enable : true;
-    label : "more service"
-    link : "service/"
+    label : "read more"
+    link : "about/"
 
 ################################## funfacts ###############################
 funfacts :
@@ -146,7 +145,7 @@ feature:
 service:
   enable : true
   section: "service"
-  show_item : 3
+  show_item : 4
   # service item comes from "content/*/service" folder
 
 ################################# team ##############################################
