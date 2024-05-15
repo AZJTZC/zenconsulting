@@ -54,7 +54,7 @@ service:
 
 ################################### team ###########################
 team: 
-  enable : true
+  enable : false
   section: "team"
   show_item: 1
   # team member comes from `content/*/team` folder
