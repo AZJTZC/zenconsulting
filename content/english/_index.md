@@ -6,7 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "We help you to"
-      title : "Govern projects"
+      title : "Succeed in project governance"
       content : "De-risk and protect your investment in delivering projects"
       bg_image_webp : "images/slider/banner-1.jpg"
       bg_image : "images/slider/banner-1.jpg"
@@ -85,7 +85,7 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "Established in 2009, our “Why” is a passion to help clients transform calmly and worry-free (with ZEN!)"
+  title : "Established in 2009, our “Why” is a passion to help clients remove the worry in transformations, with 'ZEN'-like calm"
   content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of projects. He says:
   “Executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail. Zen Consulting provides the trusted advisor to ensure transformations are set-up for success.”"
   bg_image : "images/backgrounds/about-us-bg.png"
