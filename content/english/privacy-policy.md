@@ -133,6 +133,6 @@ We make reasonable efforts to investigate your complaint and advise you of the o
 You can also complain to a competent authority with jurisdiction over privacy and data protection laws relating to your personal information that may apply. Please contact us for further details.
 
 #### Contact us
-Contact us if you have any questions or concerns in relation to this site or this privacy policy, **contact us**](https://zenconsulting.co.nz/contact/).
+Contact us if you have any questions or concerns in relation to this site or this privacy policy, [**contact us**](contact/).
 
 Copyright © 2024 Zen Consulting Limited. All rights reserved.

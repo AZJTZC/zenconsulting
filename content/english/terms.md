@@ -56,9 +56,9 @@ This site and these Terms are governed by the laws of New Zealand.
 Zen Consulting may amend these Terms from time to time. You should periodically revisit this page to review the then current Terms. By continuing to use this website after any such amendment, you are deemed to have agreed to the amended terms of use.
 
 #### Privacy
-Zen Consulting collects, uses and manages personal information in accordance with our [**privacy policy**](https://zenconsulting.co.nz/privacy-policy/).
+Zen Consulting collects, uses and manages personal information in accordance with our [**privacy policy**](privacy-policy/).
 
 #### Contact us
-Contact us if you have any questions or concerns in relation to this site or these terms, [**contact us**](https://zenconsulting.co.nz/contact/).
+Contact us if you have any questions or concerns in relation to this site or these terms, [**contact us**](contact/).
 
 Copyright © 2024 Zen Consulting Limited. All rights reserved.
