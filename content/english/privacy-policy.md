@@ -7,10 +7,10 @@ description: "privacy policy"
 ### Purpose
 This Privacy Policy ('Policy') sets out our approach to personal information including:
 
-- how we collect, hold, use and disclose (collectively "manage") your personal information;
-- how we aim to maintain the quality and security of your personal information;
-- your rights to access and correct your personal information; and
-- your rights to make a privacy complaint.
+* how we collect, hold, use and disclose (collectively "manage") your personal information;
+* how we aim to maintain the quality and security of your personal information;
+* your rights to access and correct your personal information; and
+* your rights to make a privacy complaint.
  
 ### Policy
 We recognise each individual’s right to privacy and are committed to the confidentiality and protection of your personal information. 
