@@ -1,6 +1,6 @@
 ---
 title: "Essential Looks Trend Report"
-date: 2019-02-07T10:47:55+06:00
+date: 2030-02-07T10:47:55+06:00
 # meta description
 description: "this is meta description"
 # page title background image

@@ -1,21 +1,21 @@
 ---
-title: "4. Organisational Change"
+title: "3. Organisational Change"
 # meta description
 description: "this is meta description for service page."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # service image
-image_webp: "images/service/service-3.webp"
+image_webp: "images/service/service-3.jpg"
 image: "images/service/service-3.jpg"
 # service icon
-icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
+icon: "fas fa-hands-helping" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
 Organizations that follow a change management strategy are 7x more likely to meet their digital transformation goals (Prosci, 2023). Managing change with people requires a rightsized strategy that is based on your organisation’s culture and appetite for change. It also needs to be well-executed that takes stakeholders on a journey from awareness to sustainment. This is easier said than done and very few successfully execute well, resulting in unrealized value from transformational initiatives. We bring a balanced approach of applying world class methodology with your unique organization behaviour.
 
-### Value of Services
+### Value-Added Services
 
 The key benefits of choosing us to facilitate your organization change are:
 -	Proven methodology that combines world class techniques with lessons learned in your organisation

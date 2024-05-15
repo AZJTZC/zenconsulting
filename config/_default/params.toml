@@ -6,20 +6,20 @@ favicon = "images/favicon.png"
 # top header
 top_header = true
 # Meta data
-description = "This is meta description"
+description = "project governance, process excellence, organisational change, business analysis"
 author = "Zen Consulting"
 # contact info
 address = "Auckland, New Zealand"
 mobile = "+6421880920"
 email = "info@zenconsulting.co.nz"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/myyrvjwa" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # page sidebar quick contact form
 quick_contact = true
 # search
-search = true
+search = false
 
 # Main section
 mainSections = ["blog"]
@@ -32,12 +32,12 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Contact Us"
 link = "contact/"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -46,10 +46,10 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
-map_marker_name = "Bexer"
+map_latitude = "174.76997"
+map_longitude = "-36.84871"
+map_marker = "images/favicon.png"
+map_marker_name = "Zen Consulting"
 
 ########################### social icon ############################
 [[social]]
