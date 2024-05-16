@@ -8,7 +8,7 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Succeed in project governance"
       content : "De-risk and protect your investment in delivering projects"
-      bg_image_webp : "images/slider/banner-1.jpg"
+      bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -21,7 +21,7 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Adopt Process Excellence"
       content : "Radically improve efficiency and productivity"
-      bg_image_webp : "images/slider/banner-2.jpg"
+      bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slider/banner-2.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -34,7 +34,7 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Manage Organisational Change"
       content : "Implement a rightsized change strategy"
-      bg_image_webp : "images/slider/banner-3.jpg"
+      bg_image_webp : "images/slider/banner-3.webp"
       bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -47,7 +47,7 @@ hero_slider:
     - subtitle : "We help you to"
       title : "Apply Business Analysis"
       content : "Elicit proper requirements to deliver measurable benefits"
-      bg_image_webp : "images/slider/banner-4.jpg"
+      bg_image_webp : "images/slider/banner-4.webp"
       bg_image : "images/slider/banner-4.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -127,8 +127,8 @@ feature:
   enable : true
   subtitle : "Why Choose Us"
   title : "Why Clients Choose Zen Consulting"
-  image_webp : "images/feature/feature.jpg"
-  image : "images/feature/feature.jpg"
+  image_webp : "images/feature/feature-1.webp"
+  image : "images/feature/feature-1.jpg"
   content : "What you see is what you get. Unlike other consulting outfits where the people selling are different from those delivering, you can rest assure the face you start with will be the same as the one delivering."
   feature_item:
     # feature item loop
