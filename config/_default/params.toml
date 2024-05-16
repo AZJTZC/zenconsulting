@@ -45,7 +45,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # google map
 [gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+gmap_api = "AIzaSyBo0L1A-bfNVg0YqBsaFvl_tnumlndrPZo"
 map_latitude = "174.76997"
 map_longitude = "-36.84871"
 map_marker = "images/favicon.png"
