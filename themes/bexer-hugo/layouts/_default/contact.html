@@ -77,7 +77,7 @@
 {{ "<!-- /contact form and map -->" | safeHTML }}
 
 {{ if site.Params.gmap.enable }}
-<script src="https://maps.googleapis.com/maps/api/js?key={{site.Params.gmap.gmap_api}}&libraries=places"></script>
+<script async src="https://maps.googleapis.com/maps/api/js?key={{site.Params.gmap.gmap_api}}&loading=async&callback=initMap"></script>
 {{ end }}
 
 {{ end }}
