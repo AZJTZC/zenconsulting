@@ -6,7 +6,7 @@ description: "this is meta description for service page."
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # service image
-image_webp: "images/service/service-2.jpg"
+image_webp: "images/service/service-2.webp"
 image: "images/service/service-2.jpg"
 # service icon
 icon: "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
