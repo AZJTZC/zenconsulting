@@ -12,7 +12,7 @@ image: "images/project/project-6.jpg"
 # client
 client: "Australia"
 # project category
-category: "Business"
+category: "Project Governance"
 # project status
 status : "In Process"
 ---

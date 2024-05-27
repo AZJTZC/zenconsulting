@@ -7,12 +7,12 @@ description: "this is meta description"
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
-image_webp: "images/project/project-6.webp"
-image: "images/project/project-6.jpg"
+image_webp: "images/project/printer.webp"
+image: "images/project/printer.jpg"
 # client
 client: "New Zealand"
 # project category
-category: "Project Governance"
+category: "Process Excellence"
 # project status
 status : "Completed"
 ---
