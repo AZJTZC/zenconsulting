@@ -12,7 +12,7 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "Rowan Teh"
 # taxonomies
-categories: ["Process Excellence", "Governance", "Business Analysis", "Organistional Change"]
+categories: ["Process Excellence"]
 tags: ["Lean"]
 ---
 
