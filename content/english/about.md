@@ -25,7 +25,7 @@ philosophy:
       content : "“Seek first to understand, then to be understood” (Franklin Covey). Our engagement with you starts with understanding your ‘why’. We will spend time with you and your key stakeholders to know the lay of the land and outcomes you want to achieve. We will then apply the appropriate services to support you:"
       bullet_point:
         - "Strategy and roadmap planning"
-        - "Business case & value realization"
+        - "Business case & value realisation"
         - "Requirements definition"
         - "Process improvement using Lean Six Sigma"
         - "Project governance set-up"
