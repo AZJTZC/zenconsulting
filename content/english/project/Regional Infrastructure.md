@@ -33,13 +33,14 @@ With our support in project governance over their digital transformation, our cl
 - A shift towards preventative maintenance to extend the life of assets.
 - A complete systems architecture that is cloud-based for future scalability.
 
-### Our Difference
 Digital transformations present significant risks to businesses. Beyond that of introducing new technology, there are significant impacts to people and business processes. In our client's case, the transformation impacted people and processes across several business units dispersed across numerous offices and cities. Our client needed strong capabilities to manage people and process risks and engaged us to deliver the governance support required.
 
-Key differentiators in engaging us included:
-1. A robust programme governance approach tailored to the scale of the digital transformation resulting in the alignment of stakeholders from our client and the key system integration vendor.
-2. Proactive mitigation of risks and issues based on deep knowledge of the digital solutions.
-3. Strong understanding of the unique aspects of Asset Management and the Utilities industry.
+### Our Difference
+We were the chosen partner for our client, offering unique services to provide project governance that:
+1. Delivered a robust programme governance approach tailored to the scale of the digital transformation
+2. Built strong alignment of stakeholders from our client and the key system integration vendor
+3. Proactively mitigated risks and issues based on deep knowledge of the digital solutions
+4. Provided strong understanding of the unique aspects of Asset Management and the Utilities industry
 
 ### Conclusion
 Our pragmatic approach to project governance not only operated at a project management-level, but help mitigate risks by deep-diving in areas of project delivery to uplift capability where needed.

@@ -4,10 +4,37 @@
 hero_slider:
   enable : true
   slider_item:
+  
     # slider item
     - subtitle : "We help you to"
-      title : "Succeed in project governance"
-      content : "De-risk and protect your investment in delivering projects"
+      title : "Elicit Measurable Requirements"
+      content : "Leverage our deep business analysis expertise"
+      bg_image_webp : "images/slider/banner-4.webp"
+      bg_image : "images/slider/banner-4.jpg"
+      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "service/"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+
+    # slider item
+    - subtitle : "We help you to"
+      title : "Optimise Processes for Efficiency"
+      content : "Leverage our Lean Six Sigma expertise"
+      bg_image_webp : "images/slider/banner-2.webp"
+      bg_image : "images/slider/banner-2.jpg"
+      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "service/"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+
+    # slider item
+    - subtitle : "We help you to"
+      title : "Govern Projects for Success"
+      content : "Leverage our Seasones Project Management expertise"
       bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -17,39 +44,13 @@ hero_slider:
         link : "service/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
-       # slider item
-    - subtitle : "We help you to"
-      title : "Adopt Process Excellence"
-      content : "Radically improve efficiency and productivity"
-      bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-2.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "service/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
     # slider item
     - subtitle : "We help you to"
-      title : "Manage Organisational Change"
-      content : "Implement a rightsized change strategy"
+      title : "Transition People for Change"
+      content : "Leverage our Organisational Change expertise"
       bg_image_webp : "images/slider/banner-3.webp"
       bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "service/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
- 
-    # slider item
-    - subtitle : "We help you to"
-      title : "Apply Business Analysis"
-      content : "Elicit proper requirements to deliver measurable benefits"
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
@@ -61,33 +62,34 @@ banner_feature:
   enable : true
   # Max use 4 item
   feature_item:
-    # banner feature item loop
-    - name : "Project Governance"
-      icon : "fas fa-landmark" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Set-up or get back on track projects."
-      
+     # banner feature item loop
+    - name : "Business Analysis"
+      icon : "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Elicit requirements with measurable value"
+
     # banner feature item loop
     - name : "Process Excellence"
       icon : "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Optimise processes to maximise value."
+      content : "Optimise for greater efficiency & productivity"
+      
+    # banner feature item loop
+    - name : "Project Governance"
+      icon : "fas fa-landmark" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Set-up or get back on track projects"
       
     # banner feature item loop
     - name : "Organisational Change"
       icon : "fas fa-hands-helping" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Manage people side of change."
+      content : "Implement a rightsized change strategy"
 
-     # banner feature item loop
-    - name : "Business Analysis"
-      icon : "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Define requirements with traceability to value."
       
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
   title : "Established in 2009, our “Why” is a passion to help clients remove the worry in transformations, with 'ZEN'-like calm"
-  content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of projects. He says:
-  “Executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail. Zen Consulting provides the trusted advisor to ensure transformations are set-up for success.”"
+  content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of projects. He says,
+  *“executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail.”* Zen Consulting provides the trusted advisor to ensure transformations are set-up for success."
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
   image_webp : "images/about/about-us.png"
@@ -129,7 +131,7 @@ feature:
   title : "Why Clients Choose Zen Consulting"
   image_webp : "images/feature/feature-1.webp"
   image : "images/feature/feature-1.jpg"
-  content : "What you see is what you get. Unlike other consulting outfits where the people selling are different from those delivering, you can rest assure the face you start with will be the same as the one delivering."
+  content : "What you see is what you get. Unlike other consulting firms where the people selling are different from those delivering, you can rest assured the person you start with will be with you on your journey."
   feature_item:
     # feature item loop
     - name : "Seasoned Consultants"
