@@ -21,7 +21,7 @@ The key benefits of choosing us to facilitate your process improvement are:
 -	Adoption of process taxonomies based on global standards using best practice and industry templates
 -	Well-defined requirements based on areas of inefficiencies in processes
 -	Highly collaborative workshops for working through value stream analysis with stakeholders
--	Alignment of improvements to the organization culture and appetite for change 
+-	Alignment of improvements to the organisation culture and appetite for change 
 
 ### Areas of Expertise
 We bring world class proven expertise for your process improvement needs:

@@ -13,7 +13,7 @@ icon: "fas fa-search-dollar" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
-A key success factor for digital transformations is having well-defined requirements based on a clear vision and measurable criteria. Too often digital transformations are technology-led, without a clear understanding of the problem to be solved. Traditional ways of defining requirements can encourage blue sky thinking, missing what truly matters in the organization. Defining a valid set of requirements need great facilitation skills based on knowledge of the business, best practices and solutions.
+A key success factor for digital transformations is having well-defined requirements based on a clear vision and measurable criteria. Too often digital transformations are technology-led, without a clear understanding of the problem to be solved. Traditional ways of defining requirements can encourage blue sky thinking, missing what truly matters in the organisation. Defining a valid set of requirements need great facilitation skills based on knowledge of the business, best practices and solutions.
 
 ### Value-Added Services
 The key benefits of choosing us for requirements definition is that we:
