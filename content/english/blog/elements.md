@@ -1,6 +1,6 @@
 ---
 title: "Elements"
-date: 2019-01-22T16:04:01+06:00
+date: 2030-01-22T16:04:01+06:00
 # meta description
 description: "this is meta description"
 # page title background image
@@ -12,8 +12,8 @@ image: "images/blog/post-1.jpg"
 # post author
 author: "Themefisher"
 # taxonomies
-categories: ["Elements"]
-tags: ["elements"]
+categories: ["Governance"]
+tags: ["Lean"]
 ---
 
 # Heading 1

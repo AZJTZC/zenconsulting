@@ -2,7 +2,7 @@
 title: "About"
 layout: "about"
 # meta description
-description: "this is meta description"
+description: "project governance, process excellence, organisational change, business analysis"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -14,7 +14,7 @@ philosophy:
   philosophy_item:
     # philosophy item loop
     - title : "Our Purpose"
-      content : "To help you drive value from initiatives in a calm and methodical way, to be Zen! We measure our success on:"
+      content : "To help you drive value from initiatives in a calm and methodical way, or to be Zen! We measure our success on:"
       bullet_point:
         - "Your outcomes"
         - "Growing in partnership with you"
@@ -22,14 +22,14 @@ philosophy:
         
     # philosophy item loop
     - title : "Our Approach"
-      content : "“Seek first to understand, then to be understood” Franklin Covey. Our engagement with you starts with understanding your ‘why’. We will spend time with you and your key stakeholders to know the lay of the land and outcomes you want to achieve. We will then apply the appropriate services to support you:"
+      content : "“Seek first to understand, then to be understood” (Franklin Covey). Our engagement with you starts with understanding your ‘why’. We will spend time with you and your key stakeholders to know the lay of the land and outcomes you want to achieve. We will then apply the appropriate services to support you:"
       bullet_point:
         - "Strategy and roadmap planning"
+        - "Business case & value realisation"
+        - "Requirements definition"
+        - "Process improvement using Lean Six Sigma"
         - "Project governance set-up"
         - "Project health check and risk review"
-        - "Requirements definition"
-        - "Business case & value realization"
-        - "Process improvement using Lean Six Sigma"
         - "Organisation change strategy and execution"
         
     # philosophy item loop
