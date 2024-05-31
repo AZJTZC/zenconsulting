@@ -8,7 +8,7 @@ hero_slider:
     # slider item
     - subtitle : "We help you to"
       title : "Elicit Measurable Requirements"
-      content : "Leverage our deep business analysis expertise"
+      content : "Leverage our deep Business Analysis expertise"
       bg_image_webp : "images/slider/banner-4.webp"
       bg_image : "images/slider/banner-4.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
@@ -34,7 +34,7 @@ hero_slider:
     # slider item
     - subtitle : "We help you to"
       title : "Govern Projects for Success"
-      content : "Leverage our Seasones Project Management expertise"
+      content : "Leverage our Seasoned Project Management expertise"
       bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
