@@ -127,7 +127,7 @@ funfacts :
 testimonial:
   enable : true
   subtitle : "Testimonials"
-  title : "What Clients Say About Us"
+  title : "What Clients Say"
   testimonial_item:
     # testimonial item loop
     - client_image : "images/testimonial/panpac.jpg"
