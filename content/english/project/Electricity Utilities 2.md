@@ -38,4 +38,4 @@ The key differences in using us included:
 ### Conclusion
 Building a culture of continuous improvement that challenges the current way of doing things can result in extraordinary results, but is also prone to risk from a mistrust among stakeholders if not implemented properly. Our proven 6-step methodology ensures your team build the capability and focuses their energy on problem solving and not analysis paralysis.
 
-If you are looking for a modern and digital approach to implement Lean thinking into your workforce, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you are looking for a modern approach to implement Lean thinking in your workforce, [**contact us**](https://zenconsulting.co.nz/contact/).

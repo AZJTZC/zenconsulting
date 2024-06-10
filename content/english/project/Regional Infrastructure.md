@@ -45,4 +45,4 @@ We were the chosen partner for our client, offering unique services to provide p
 ### Conclusion
 Our pragmatic approach to project governance not only operated at a project management-level, but help mitigate risks by deep-diving in areas of project delivery to uplift capability where needed.
 
-If you’re wanting a trusted advisor for project governance, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for project governance, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

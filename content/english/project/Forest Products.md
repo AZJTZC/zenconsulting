@@ -43,4 +43,4 @@ We provided key differentiators to traditional project governance support:
 ### Conclusion
 Every project has unique circumstances that can present risks. Whilst our approach to project governance leverages industry best practices in project controls, we tailor the areas of focus depending on the need. We also support the team to fill gaps where there are capability and capacity challenges.
 
-If you’re wanting a trusted advisor for project governance, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for project governance, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

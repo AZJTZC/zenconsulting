@@ -40,4 +40,4 @@ We enabled our client to:
 ### Conclusion
 We simply offered a uniquely different approach to understand and designing the end-to-end asset lifecycle enabled by an ERP system. We provided an asset lifefycle process structure template to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing the asset lifecycle processes. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
-If you’re wanting a trusted advisor for process excellence, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

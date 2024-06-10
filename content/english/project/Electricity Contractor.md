@@ -40,4 +40,4 @@ We were the chosen partner for our client, offering unique services for process 
 ### Conclusion
 We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state. We provided an electricity benchmarked process structure template to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
-If you’re wanting a trusted advisor for process excellence, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).
