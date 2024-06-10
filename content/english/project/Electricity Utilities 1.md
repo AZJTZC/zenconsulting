@@ -30,7 +30,7 @@ We helped our client achieve the following:
 3. Accelerated business case benefits with the commencement of quick-wins from over 150 generated and trackable improvements
 4. Developed staff in Lean to instil a culture of continuous improvement
 5. Clearly defined end-to-end value streams across asset management, finance, procurement, and customer service
-6. Independent project governance and QA to ensure value is realised during the system implementations
+6. Independent project governance and QA to ensure value is realised during the system implementations.
 
 ### Our Difference
 The key differences in using us included:
@@ -39,7 +39,7 @@ The key differences in using us included:
 3. Surfaced key areas of inefficiencies to generate improvements based on process data
 4. Enabled capturing both current-state and ideal-state process design to support change management initiatives with stakeholders
 5. Proven methodology supported by deep knowledge and experience of processes and systems
-6. Independent project governance and QA to ensure value is realised during the system implementation
+6. Independent project governance and QA to ensure value is realised during the system implementation.
 
 ### Conclusion
 We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. We provided an electricity benchmarked process structure template to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.

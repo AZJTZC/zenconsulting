@@ -27,13 +27,13 @@ We helped our client achieve the following:
 1. Educate staff in Lean Thinking – understanding the approach and techniques from theory through to practice
 2. Provide a clear understanding of the key processes surrounding GIS and dependencies with other asset management processes from an end-to-end perspective
 3. Identify and quantify improvements associated with GIS-related processes
-4. Provide a roadmap of improvements based on prioritisation using the Cost of Delay framework
+4. Provide a roadmap of improvements based on prioritisation using the Cost of Delay framework.
 
 ### Our Difference
 The key differences in using us included:
 1. A modern approach that enabled workshops to be conducted remotely with accelerated value stream analysis, saving time and effort
 2. A 6-step approach that kicked-off with foundational Lean training to build internal capability followed by a facilitated Lean event to demonstrate a repeatable approach
-3. A clear output of initiatives that encompassed a Cost of Delay prioritisation based on value to the business
+3. A clear output of initiatives that encompassed a Cost of Delay prioritisation based on value to the business.
 
 ### Conclusion
 Building a culture of continuous improvement that challenges the current way of doing things can result in extraordinary results, but is also prone to risk from a mistrust among stakeholders if not implemented properly. Our proven 6-step methodology ensures your team build the capability and focuses their energy on problem solving and not analysis paralysis.

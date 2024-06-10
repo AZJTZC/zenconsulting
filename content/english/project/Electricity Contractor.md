@@ -26,10 +26,10 @@ Our client needed external help that could act independently and bring together 
 
 ### Key Outcomes
 We produced a clear roadmap for making improvements to the design estimation process based on data-driven decisions. Following our process improvement approach enabled our client to:
-- Unite stakeholders across all regional offices on a common definition for major, minor and customer tender project work as well as their current-state processes .
-- Identify measurable value-add, non-value add and waiting times and associated cost to the business.
-- Capture, prioritise and track progress of completing improvements.
-- Develop staff in Lean to instil a culture of continuous improvement.
+1. Unite stakeholders across all regional offices on a common definition for major, minor and customer tender project work as well as their current-state processes .
+2. Identify measurable value-add, non-value add and waiting times and associated cost to the business.
+3. Capture, prioritise and track progress of completing improvements.
+4. Develop staff in Lean to instil a culture of continuous improvement.
 
 ### Our Difference
 We were the chosen partner for our client, offering unique services for process excellence that:

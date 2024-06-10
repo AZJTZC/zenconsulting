@@ -24,13 +24,13 @@ The rapid growth of our client's business, from producing a wide range of produc
 
 ### Key Outcomes
 With our engagement, our client generated over 250 detailed requirements that addressed key inefficiencies in their current processes and systems. These requirements allowed our client to:
-- Understand their end-to-end business architecture across finance and operations
-- Build a common taxonomy of business processes based on industry standards using the APQC Process Classification Framework (PCF)®
-- Uncover key areas of inefficiencies (bottlenecks and manual/duplicate effort) by value stream and process
-- List specific outputs, workflow, integration, data objects and system functionality embedded in processes
-- Create a future-state reporting architecture based on data elements across existing reports
-- Produce a requirements list easily translated into system features for a market scan of solutions
-- Create a current-state blueprint as input to the solution design
+1. Understand their end-to-end business architecture across finance and operations
+2. Build a common taxonomy of business processes based on industry standards using the APQC Process Classification Framework (PCF)®
+3. Uncover key areas of inefficiencies (bottlenecks and manual/duplicate effort) by value stream and process
+4. List specific outputs, workflow, integration, data objects and system functionality embedded in processes
+5. Create a future-state reporting architecture based on data elements across existing reports
+6. Produce a requirements list easily translated into system features for a market scan of solutions
+7. Create a current-state blueprint as input to the solution design.
 
 ### Our Difference
 We were the chosen partner for our client, offering unique services to provide process excellence that:
@@ -38,7 +38,7 @@ We were the chosen partner for our client, offering unique services to provide p
 2. Automated the capturing and value stream analysis of processes saving time and cost
 3. Surfaced key areas of inefficiencies to generate improvements based on process data
 4. Enabled an online mechanism for capturing and sharing process information with stakeholders onsite and offsite
-5. Proven methodology supported by deep knowledge and experience of processes and systems
+5. Proven methodology supported by deep knowledge and experience of processes and systems.
 
 ### Conclusion
 We offered a uniquely different and data-driven way of understanding business requirements and generating an ideal state for new systems. We provided a process structure template using APQC's Process Classification Framework® to align processes with an industry-standard taxonomy. This provided our client with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.

@@ -26,7 +26,7 @@ A major challenge for our client's digital transformation journey was modernisin
 Our client has realised the benefits from their digital transformation focusing on value-add and removing waste. More specifically,we enabled our client to achieve:
 1. A clear understanding of their ideal-state from the digital transformation, supported by processes and systems design
 2. Project governance to continue identifying, measuring and tracking inefficiencies in processes during the digital transformation
-3. An approach that collaborated and aligned stakeholders to clearly understanding their requirements before jumping to a solution
+3. An approach that collaborated and aligned stakeholders to clearly understanding their requirements before jumping to a solution.
 
 ### Our Difference
 We were the chosen partner for our client, offering unique services to provide process excellence and project governance that:
@@ -35,7 +35,7 @@ We were the chosen partner for our client, offering unique services to provide p
 3. Surfaced key areas of inefficiencies to generate improvements based on process data
 4. Enabled capturing both current-state and ideal-state process design to support change management initiatives with stakeholders
 5. Proven methodology supported by deep knowledge and experience of processes and systems
-6. Independent project governance and QA to ensure value is realised during the system implementation
+6. Independent project governance and QA to ensure value is realised during the system implementation.
 
 ### Conclusion
 We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. We provided a process structure template using APQC’s Process Classification Framework® to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.

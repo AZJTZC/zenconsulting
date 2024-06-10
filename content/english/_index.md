@@ -123,6 +123,17 @@ funfacts :
       count : "50"
       icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
 
+################################# testimonial #########################################
+testimonial:
+  enable : true
+  subtitle : "Testimonials"
+  title : "What Clients Are Say?"
+  testimonial_item:
+    # testimonial item loop
+    - client_image : "images/testimonial/panpac.jpg"
+      name : "Ross McMillan"
+      designation : "Chief Financial Officer, Pan Pac"
+      content : "Rowan has always given balanced, and considered advice based on his wide experience in ERP Implementations. His ability to give good governance and risk advice has been a vital cog in the Project’s success. Also his ability to help with practical and pragmatic advice for BAU has been much appreciated."
 
 ################################# feature ############################################
 feature:
@@ -154,44 +165,19 @@ service:
 team:
   enable : false
   section: "team"
-  show_item : 3
+  show_item : 5
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
 project:
   enable : false
   section: "project"
-  show_item : 4
+  show_item : 6
   button:
     enable : true
     label : "more projects"
     link : "project/"
   # project item comes from "content/*/project" folder
-
-################################# testimonial #########################################
-testimonial:
-  enable : false
-  subtitle : "Testimonials"
-  title : "What Clients Are Say?"
-  testimonial_item:
-    # testimonial item loop
-    - client_image : "images/testimonial/client-1.jpg"
-      name : "Dominic Allen"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-      
-    # testimonial item loop
-    - client_image : "images/testimonial/client-2.jpg"
-      name : "Alex Pitt"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
-    # testimonial item loop
-    - client_image : "images/testimonial/client-3.jpg"
-      name : "John Doe"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
 
 ################################# blog ################################################
 cta:
@@ -208,7 +194,7 @@ cta:
 blog:
   enable : false
   section : "blog"
-  show_item : 3
+  show_item : 7
   # blog post comes from "content/*/blog" folder
 
 ---

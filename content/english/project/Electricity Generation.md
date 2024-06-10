@@ -24,10 +24,10 @@ Our client's asset management processes and data involve different departments u
 
 ### Key Outcomes
 We helped our client achieve the following:
-- Streamlining the end-to-end Asset Lifecycle Management
-- Identifying and prioritising process and system improvements 
-- Distinguishing roles and responsibilities between departments across processes
-- Identifying key system sources (ERP and GIS) that captures financial and maintenance-related asset data
+1. Streamlining the end-to-end Asset Lifecycle Management
+2. Identifying and prioritising process and system improvements 
+3. Distinguishing roles and responsibilities between departments across processes
+4. Identifying key system sources (ERP and GIS) that captures financial and maintenance-related asset data
 
 ### Our Difference
 We enabled our client to:
