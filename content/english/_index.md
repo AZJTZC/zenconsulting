@@ -127,7 +127,7 @@ funfacts :
 testimonial:
   enable : true
   subtitle : "Testimonials"
-  title : "What Clients Are Say?"
+  title : "What Clients Say About Us"
   testimonial_item:
     # testimonial item loop
     - client_image : "images/testimonial/panpac.jpg"
@@ -139,7 +139,7 @@ testimonial:
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why Clients Choose Zen Consulting"
+  title : "Make the Right Choice"
   image_webp : "images/feature/feature-1.webp"
   image : "images/feature/feature-1.jpg"
   content : "What you see is what you get. Unlike other consulting firms where the people selling are different from those delivering, you can rest assured the person you start with will be with you on your journey."
