@@ -11,7 +11,7 @@ author = "Zen Consulting"
 # contact info
 address = "Auckland, New Zealand"
 mobile = "+6421880920"
-email = "info@zenconsulting.co.nz"
+email = "hello@zenconsulting.co.nz"
 # contact form action
 contact_form_action = "https://formspree.io/f/myyrvjwa" # contact form works with https://formspree.io
 # Google Analitycs
