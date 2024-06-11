@@ -24,10 +24,10 @@ Our client's asset management processes and data involve different departments u
 
 ### Key Outcomes
 We helped our client achieve the following:
-- Streamlining the end-to-end Asset Lifecycle Management
-- Identifying and prioritising process and system improvements 
-- Distinguishing roles and responsibilities between departments across processes
-- Identifying key system sources (ERP and GIS) that captures financial and maintenance-related asset data
+1. Streamlining the end-to-end Asset Lifecycle Management
+2. Identifying and prioritising process and system improvements 
+3. Distinguishing roles and responsibilities between departments across processes
+4. Identifying key system sources (ERP and GIS) that captures financial and maintenance-related asset data
 
 ### Our Difference
 We enabled our client to:
@@ -40,4 +40,4 @@ We enabled our client to:
 ### Conclusion
 We simply offered a uniquely different approach to understand and designing the end-to-end asset lifecycle enabled by an ERP system. We provided an asset lifefycle process structure template to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing the asset lifecycle processes. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
-If you’re wanting a trusted advisor for process excellence, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

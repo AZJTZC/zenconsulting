@@ -26,12 +26,12 @@ A decision was made to embark on a digital transformation to move as much of the
 
 ### Key Outcomes
 With our support in project governance over their digital transformation, our client was able to achieve the following:
-- Consolidated reporting across all business units from a single source of the truth ERP system.
-- Digital visualisation of the electricity network using GIS to easily identify and track faults.
-- Mobile workforce of field workers and contractors who can manage information on the go using a mobility app.
-- Automation of workflows in procure-to-pay and order-to-cash processes.
-- A shift towards preventative maintenance to extend the life of assets.
-- A complete systems architecture that is cloud-based for future scalability.
+1. Consolidated reporting across all business units from a single source of the truth ERP system
+2. Digital visualisation of the electricity network using GIS to easily identify and track faults
+3. Mobile workforce of field workers and contractors who can manage information on the go using a mobility app
+4. Automation of workflows in procure-to-pay and order-to-cash processes
+5. A shift towards preventative maintenance to extend the life of assets
+6. A complete systems architecture that is cloud-based for future scalability.
 
 Digital transformations present significant risks to businesses. Beyond that of introducing new technology, there are significant impacts to people and business processes. In our client's case, the transformation impacted people and processes across several business units dispersed across numerous offices and cities. Our client needed strong capabilities to manage people and process risks and engaged us to deliver the governance support required.
 
@@ -40,9 +40,9 @@ We were the chosen partner for our client, offering unique services to provide p
 1. Delivered a robust programme governance approach tailored to the scale of the digital transformation
 2. Built strong alignment of stakeholders from our client and the key system integration vendor
 3. Proactively mitigated risks and issues based on deep knowledge of the digital solutions
-4. Provided strong understanding of the unique aspects of Asset Management and the Utilities industry
+4. Provided strong understanding of the unique aspects of Asset Management and the Utilities industry.
 
 ### Conclusion
 Our pragmatic approach to project governance not only operated at a project management-level, but help mitigate risks by deep-diving in areas of project delivery to uplift capability where needed.
 
-If you’re wanting a trusted advisor for project governance, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for project governance, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

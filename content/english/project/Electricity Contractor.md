@@ -26,10 +26,10 @@ Our client needed external help that could act independently and bring together 
 
 ### Key Outcomes
 We produced a clear roadmap for making improvements to the design estimation process based on data-driven decisions. Following our process improvement approach enabled our client to:
-- Unite stakeholders across all regional offices on a common definition for major, minor and customer tender project work as well as their current-state processes .
-- Identify measurable value-add, non-value add and waiting times and associated cost to the business.
-- Capture, prioritise and track progress of completing improvements.
-- Develop staff in Lean to instil a culture of continuous improvement.
+1. Unite stakeholders across all regional offices on a common definition for major, minor and customer tender project work as well as their current-state processes .
+2. Identify measurable value-add, non-value add and waiting times and associated cost to the business.
+3. Capture, prioritise and track progress of completing improvements.
+4. Develop staff in Lean to instil a culture of continuous improvement.
 
 ### Our Difference
 We were the chosen partner for our client, offering unique services for process excellence that:
@@ -40,4 +40,4 @@ We were the chosen partner for our client, offering unique services for process 
 ### Conclusion
 We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state. We provided an electricity benchmarked process structure template to align the client's processes with an industry standard taxonomy. This provided our client with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
-If you’re wanting a trusted advisor for process excellence, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

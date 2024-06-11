@@ -92,6 +92,10 @@
 {{ end }}
 {{ end }}
 
+{{ if .Params.testimonial.enable }}
+{{ partial "testimonial.html" . }}
+{{ end }}
+
 {{ with .Params.feature }}
 {{ if .enable }}
 {{ "<!-- feature -->" | safeHTML }}
@@ -181,31 +185,6 @@
 {{end}}
 {{ "<!-- /case study -->" | safeHTML }}
 
-{{ if .Params.testimonial.enable }}
-{{ partial "testimonial.html" . }}
-{{ end }}
-
-{{ if .Params.cta.enable }}
-{{ with .Params.cta }}
-{{ "<!-- call to action -->" | safeHTML }}
-<section class="section overlay-secondary bg-fixed" style="background-image: url('{{ .bg_image_webp | absURL }}');">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 col-md-10 col-11 text-center mx-auto">
-        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-primary hover-ripple">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ "<!-- /call to action -->" | safeHTML }}
-{{ end }}
-{{ end }}
-
 {{ "<!-- blog -->" | safeHTML }}
 {{$show_item:= .Params.service.show_item}}
 {{ if .Params.blog.enable }}
@@ -237,5 +216,26 @@
 {{ end }}
 {{ end }}
 {{ "<!-- /blog -->" | safeHTML }}
+
+{{ if .Params.cta.enable }}
+{{ with .Params.cta }}
+{{ "<!-- call to action -->" | safeHTML }}
+<section class="section overlay-secondary bg-fixed" style="background-image: url('{{ .bg_image_webp | absURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-md-10 col-11 text-center mx-auto">
+        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-primary hover-ripple">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- /call to action -->" | safeHTML }}
+{{ end }}
+{{ end }}
 
 {{ end }}

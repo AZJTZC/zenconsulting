@@ -24,8 +24,8 @@ Our client needed to implement a public safety management system (PSMS) to compl
 
 ### Key Outcomes
 We helped our client achieve the following:
-1.	Documented current-state processes with identified gaps and challenges, role mapping, data records, and systems.
-2.	Documented optimised-state processes with improvement points.
+1.	Documented current-state processes with identified gaps and challenges, role mapping, data records, and systems
+2.	Documented optimised-state processes with improvement points
 3.	Documented key systems in the enterprise architecture that support the optimised-state processes.
 
 ### Our Difference
@@ -33,7 +33,7 @@ The key differences in using us included:
 1.	Provided deep understanding of electricity distribution industry
 2.	Applied Lean value stream analysis on processes to measure waste
 3.	Incorporated industry standards on PSMS for incident and hazard reporting
-4.	Adopted a systems approach to ensuring processes were relatable to EAM system
+4.	Adopted a systems approach to ensuring processes were relatable to EAM system.
 
 ### Conclusion
 BPublic safety is a significant risk in this industry. To ensure electricity providers are compliant with the standards, they need the appropriate systems and processes in place. However, this needs to be balanced with performing processes in an efficient way. This is where we can help to ensure appropriate processes are developed and a clear understanding of the transition required from current to optimised-state.
