@@ -87,7 +87,7 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "Established in 2009, our “Why” is a passion to help clients remove the worry in transformations, with 'ZEN'-like calm"
+  title : "Established in 2009, our “Why” is a passion to help clients reduce the worry in transformations, with 'ZEN'-like calm"
   content : "With over 25 years of digital transformation experience, our Founder Rowan Teh has seen the best and worse examples of projects. He says,
   *“executing projects is as much an art than it is a science. You can apply the rigour of methodologies and systems, but without leadership, stakeholder management and intuition, you’re destined to fail.”* Zen Consulting provides the trusted advisor to ensure transformations are set-up for success."
   bg_image : "images/backgrounds/about-us-bg.png"
@@ -182,7 +182,7 @@ project:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Zen Consulting For Worry-Free Project Delivery"
+  title : "Zen Consulting For Worriless Project Delivery"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:

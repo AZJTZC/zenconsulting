@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 home = "Home"
 # footer content
-footer_content = "Established in 2009, our “Why” is a passion to help clients transform calmly and worry-free (with ZEN!). Zen Consulting is a trusted advisor to set-up and deliver successful transformations."
+footer_content = "Established in 2009, our “Why” is a passion to help clients transform calmly (with ZEN!). Zen Consulting is a trusted advisor to set-up and deliver successful transformations."
 # copyright
 copyright = "Copyright © 2024 Zen Consulting Limited. All rights reserved."
 
