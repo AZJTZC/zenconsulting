@@ -1,6 +1,6 @@
 ---
 title: "Electricity Contracting Services"
-date: 2021-12-31T10:47:55+06:00
+date: 2025-12-31T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
