@@ -1,6 +1,6 @@
 ---
 title: "Electricity Utilities GIS Team"
-date: 2025-12-31T10:47:55+06:00
+date: 2022-12-31T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client is one of New Zealand’s largest electricity network supplying electricity to over 92,000 customers. A critical system used by our client to understand the health and performance of the network is their Geographical Information System (GIS). The team that supports the GIS is crucial to ensure our client has the visibility of asset data across the network. The GIS team has a culture of continuous improvement.

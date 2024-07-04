@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Project Governance"
 # project status
 status : "Completed"
+draft: false
 ---
 
 Our client specialises in regional infrastructure: ports, electricity distribution and transmission networks, and electricity generation. Similar to other businesses in the energy and utilities industries, our client experienced substantial growth from an expanding electricity network in the region and non-network services.

@@ -1,6 +1,6 @@
 ---
 title: "Agriculture Producer"
-date: 2025-12-31T10:47:55+06:00
+date: 2022-12-31T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client is a New Zealand fully integrated orchard-to-service business delivering premium produce to leading retailers and wholesalers, both in NZ and overseas. Since its establishment in early 80's, our client has grown to become New Zealand and Australia’s largest fruit grower as well as maintaining a reputation of being experts in supply chain management, comprising of orchard, harvest and post-harvest processes. 

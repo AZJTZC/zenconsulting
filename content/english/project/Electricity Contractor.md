@@ -1,6 +1,6 @@
 ---
 title: "Electricity Contracting Services"
-date: 2025-12-31T10:47:55+06:00
+date: 2021-12-31T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client maintains and operates both the electricity distribution and fibre networks in the North Island, New Zealand. Its contracting business provides construction and maintenance services to some of NZ’s largest electricity networks and prides itself as continually redefining service delivery to driver performance to help communities thrive.

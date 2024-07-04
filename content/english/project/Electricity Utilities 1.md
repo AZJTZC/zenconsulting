@@ -1,6 +1,6 @@
 ---
 title: "Electricity Utilities Provider"
-date: 2025-12-07T10:47:55+06:00
+date: 2022-12-07T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client owns and operates the electricity network that distributes power to over 45,000 customers in one of NZ’s fastest growing regions. Similar to the other electricity distributors in NZ, our client embraces technology as a strategic enabler to deliver a high quality, low-cost network. In 2020, our client made the decision to implement a new Enterprise Asset Management (EAM) System to integrate with their financial system that would be upgraded at the same time.
