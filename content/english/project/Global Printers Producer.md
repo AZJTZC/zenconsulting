@@ -1,6 +1,6 @@
 ---
 title: "Global Printers Manufacturer"
-date: 2025-12-31T10:47:55+06:00
+date: 2022-12-31T10:47:55+06:00
 # meta description
 description: "lean, process improvement"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Project Governance"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client is synonymous with innovative print and imaging technology, with offices spanning 41 countries. Founded in Japan, the multinational corporation has been operating in New Zealand for the past 60 years. A key to our client's success has been its ability to deliver a diverse range of products and services to customers. With the growth of products and services, our client initiated a digital transformation journey to enable their operational processes to scale and support their business.

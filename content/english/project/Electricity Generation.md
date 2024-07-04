@@ -1,6 +1,6 @@
 ---
 title: "Electricity Generation Provider"
-date: 2025-12-31T10:47:55+06:00
+date: 2022-12-31T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client specialises in regional infrastructure: ports, electricity distribution and transmission networks, and electricity generation. Efficient management and accurate reporting on the full lifecycle of assets are essential for our client, especially as they have interested parties such as the community and significant regulatory compliance commitments across their sectors.

@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Project Governance"
 # project status
 status : "Completed"
+draft: false
 ---
 
 Pan Pac Forest Products Ltd provides sustainable and tailored forest products to domestic and international markets. Owned by Oji Group, a leader in the pulp and paper industry in Japan, Pan Pac has been growing, processing and delivering radiata products for over 50 years. In 2022, Pan Pac embarked on a company-wide digital transformation comprising of an ERP system implementation. This transformation provided Pan Pac with significant benefits such as simplification/standardisation/consistency of business processes, one source for key information and foundation for innovation with new technologies. However, there was equally significant risk to the business.

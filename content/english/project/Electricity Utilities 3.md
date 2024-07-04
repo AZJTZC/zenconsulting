@@ -1,6 +1,6 @@
 ---
 title: "Electricity Public Safety"
-date: 2025-06-30T10:47:55+06:00
+date: 2023-06-30T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
@@ -15,6 +15,7 @@ client: "New Zealand"
 category: "Process Excellence"
 # project status
 status : "Completed"
+draft: true
 ---
 
 Our client owns and operates the electricity distribution network to over 49,000 customers (homes, farms, businesses etc.) and has been operating for almost 100 years. The company has experienced continuous growth throughout the years in a region that is expected to develop another 35,000 potential dwellings in the next 30 years. With the rapid growth, there’s a need to ensure they’re compliant with New Zealand Standard for Public Safety (NZ7901).
