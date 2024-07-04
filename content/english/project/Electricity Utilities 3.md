@@ -1,6 +1,6 @@
 ---
 title: "Electricity Public Safety"
-date: 2023-06-30T10:47:55+06:00
+date: 2025-06-30T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image

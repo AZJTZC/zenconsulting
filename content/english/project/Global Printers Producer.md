@@ -1,6 +1,6 @@
 ---
 title: "Global Printers Manufacturer"
-date: 2023-12-31T10:47:55+06:00
+date: 2025-12-31T10:47:55+06:00
 # meta description
 description: "lean, process improvement"
 # page title background image
